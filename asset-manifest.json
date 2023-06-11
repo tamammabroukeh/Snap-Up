@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Snap-Up/static/css/main.a6d6314b.css",
+    "main.js": "/Snap-Up/static/js/main.97cdce82.js",
+    "static/media/slider_img_2.jpg": "/Snap-Up/static/media/slider_img_2.d2b62640a3fd93694d28.jpg",
+    "static/media/slider_img_1.jpg": "/Snap-Up/static/media/slider_img_1.b52758991907ca139bed.jpg",
+    "static/media/shopping_cart.png": "/Snap-Up/static/media/shopping_cart.9bdd8040b334d31946f4.png",
+    "static/media/correct.png": "/Snap-Up/static/media/correct.a8d20cd48e2e0d022083.png",
+    "static/media/slick.svg": "/Snap-Up/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Snap-Up/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Snap-Up/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Snap-Up/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/loader.svg": "/Snap-Up/static/media/loader.9199439f44c3cf8c62267067e36cb27d.svg",
+    "index.html": "/Snap-Up/index.html",
+    "main.a6d6314b.css.map": "/Snap-Up/static/css/main.a6d6314b.css.map",
+    "main.97cdce82.js.map": "/Snap-Up/static/js/main.97cdce82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d6314b.css",
+    "static/js/main.97cdce82.js"
+  ]
+}
